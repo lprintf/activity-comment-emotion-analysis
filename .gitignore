@@ -1,0 +1,8 @@
+.py
+__pycache__
+.vscode
+data
+module
+.ipynb_checkpoints
+raw
+cn_stopwords.txt
